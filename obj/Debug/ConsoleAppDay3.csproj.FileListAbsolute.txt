@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\bin\Debug\ConsoleAppDay3.exe.config
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\bin\Debug\ConsoleAppDay3.exe
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\bin\Debug\ConsoleAppDay3.pdb
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\obj\Debug\ConsoleAppDay3.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\obj\Debug\ConsoleAppDay3.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\obj\Debug\ConsoleAppDay3.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\obj\Debug\ConsoleAppDay3.exe
+E:\Simplilearn course\Day3\ConsoleAppDay3\ConsoleAppDay3\obj\Debug\ConsoleAppDay3.pdb
